@@ -1,10 +1,9 @@
 <!--- app-name: PostgreSQL -->
 
-# Bitnami package for PostgreSQL
+# POSTGRESQL - PV/PVC 
 
 
 
-## TL;DR
 
 ```console
 helm install my-release oci://registry-1.docker.io/bitnamicharts/postgresql
